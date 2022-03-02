@@ -1,3 +1,3 @@
 # Aspire
-I just run oly file LoginUserPass.java
+I just run only file LoginUserPass.java
 src/test/java/test/global/LoginUserPass.java
